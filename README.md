@@ -4,9 +4,7 @@
 
 ## Libraries Used 
 
-Svelte
-Svelte Navigation
-(No UI components library used) 
+Svelte, Svelte Navigation (No UI components library used) 
 
 ## To run on your local machine
 
